@@ -6,3 +6,5 @@ sunstring of a word from the dictionary array, then the word shall be added to a
 The function returns an array of English words.
 
 There will be multiple files for different languages. The first is Python.
+
+Just addded the Java file! Took a while unfortunately as other work has taken a toll on my time.
